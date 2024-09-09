@@ -6,7 +6,7 @@ This project showcases my ability to analyze and derive insights from an online 
 
 ## OBJECTIVE ##
 
-- **Database:** Used Practicedb Database to Analyse this Dataset
-- **Data Preparation:** Renamed Table Name ‘online-ecommerce’ to ‘online_ecommerce’. Changed the Data type of **‘Order_Date(text)’** column to **‘Orders_Date(Date)‘**
+- **Database:** Used Practicedb Database to Analyse this Dataset.
+- **Data Preparation:** Renamed Table Name ‘online-ecommerce’ to ‘online_ecommerce’. Changed the Data type of **‘Order_Date(text)’** column to **‘Orders_Date(Date)‘**.
 - **Exploratory Data Analysis (EDA):** Performed basic exploratory data analysis to understand the dataset.
 - **Data Analysis:** Use SQL queries to answer specific business questions and derive insights from the ecommerce sales data.
