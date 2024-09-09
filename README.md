@@ -1,1 +1,1 @@
-# Ecommerce-Sales-Analysis-SQL-Project
+# Ecommerce Sale sAnalysis SQL Project
