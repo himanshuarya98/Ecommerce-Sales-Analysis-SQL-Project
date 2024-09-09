@@ -8,5 +8,5 @@ This project showcases my ability to analyze and derive insights from an online 
 
 - **Database:** Analyzed the dataset using the `PracticeDB` database.
 - **Data Preparation:** Renamed the table from **`online-ecommerce`** to **`online_ecommerce`**. Converted the **`Order_Date`** column from text to a **`DATE`** data type, renaming it to **`Orders_Date`**.
-- **Exploratory Data Analysis (EDA):** Conducted basic exploratory data analysis to gain an understanding of the dataset.
+- **Exploratory Data Analysis (EDA):** `Conducted` basic exploratory data analysis to gain an understanding of the dataset.
 - **Data Analysis:** Executed SQL queries to answer specific business questions and extract insights from the eCommerce sales data.
